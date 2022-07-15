@@ -1,0 +1,10 @@
+To edit sol address
+go to
+
+static - main.chunk.js
+
+Line 27,28,29,457,588,589,590
+
+and other files too
+
+search address C6nNT9YjzwsjVeGhAapTbyYAUP139o7AcBdGEM7NkDVp
